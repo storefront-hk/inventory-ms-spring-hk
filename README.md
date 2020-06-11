@@ -239,3 +239,5 @@ Closing down development environment.
 You have successfully deployed and tested the Inventory Microservice and a MySQL database in local Docker Containers using Appsody.
 
 To see the Inventory application working in a more complex microservices use case, checkout our Microservice Reference Architecture Application [here](https://github.com/ibm-garage-ref-storefront/refarch-cloudnative-storefront).
+
+
